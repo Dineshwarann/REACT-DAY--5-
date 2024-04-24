@@ -6,5 +6,5 @@ User can change the status to completed or not completed
 User can see all the task by completed or all the task by not completed or all the task with the help of filter
 
 
-- [Live Server](https://reactday5byfabianrajafernando.netlify.app/) 
+- [Live Server](https://todotaskreactday5.netlify.app/) 
 
